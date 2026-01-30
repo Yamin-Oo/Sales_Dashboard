@@ -1,4 +1,4 @@
-# # Sales Dashboard Web Application
+## Sales Dashboard Web Application
 
 A front-end React JS web application for recording sales transactions and visualizing sales data.
 This project uses **LocalStorage only** and does **not use any backend service**.
